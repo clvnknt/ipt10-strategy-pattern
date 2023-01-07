@@ -1,0 +1,15 @@
+{
+    "name": "calvinkent/strategy-pattern",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clvnknt",
+            "email": "p.calvinkent@gmail.com"
+        }
+    ],
+    "require": {}
+}
